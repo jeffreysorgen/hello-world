@@ -121,3 +121,7 @@ Handwritten labels on the buttons, record stuff in the database.
 #
 ##### Immeditate needs:
 I am hoping to capture the attention of someone. I don't know who or why or how, but I am trying to listen creatively where I can for opportunities.
+
+#
+##### SOMEONE ELSE DID THIS:
+[link](https://blog.arduino.cc/2024/06/03/the-club-master-is-a-nano-rp2040-powered-device-that-improves-your-golf-swing/)
